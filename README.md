@@ -2,7 +2,7 @@
 E-mail temporário, consumindo API do site temp-mail.io
 
 Iniciar o projeto com o seguite comando:<br>
-<code>ruby __init__.rb</code>
+<code>ruby init.rb<p></code>
 
 O projeto requer as seguintes depedências:
 
